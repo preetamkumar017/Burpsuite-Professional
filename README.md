@@ -189,3 +189,18 @@ sudo cp burp /usr/local/bin/burp
 - Loader.jar 👉 [h3110w0r1d-y](https://github.com/h3110w0r1d-y/BurpLoaderKeygen)
 - Script 👉 [cyb3rzest](https://github.com/cyb3rzest/Burp-Suite-Pro)
 # Burpsuite-Professional
+
+
+# if license not working then try this
+```
+sudo update-alternatives --config java 
+```
+
+Then I chose Java 21
+
+```
+/usr/lib/jvm/java-21-openjdk-amd64/bin/java 
+```
+After that, I started the loader, and then it started working.
+
+
